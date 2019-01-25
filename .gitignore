@@ -2,3 +2,6 @@ build/*
 env/*
 env_vars.py
 *.pyc
+.env
+.idea/
+ActivoBot-9df24e883e77.json
